@@ -1,4 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sebastián Gómez
+
+NOC Engineer transitioning into AI Automation Engineering.
+
+## 🚀 Current Focus
+- AI-powered automation systems
+- Python for infrastructure & cloud automation
+- LLM integration and intelligent workflows
+- Building scalable automation engines
+
+## 🧠 Tech Stack
+- Python
+- Linux
+- Git
+- APIs
+- Automation workflows
+- Monitoring systems
+
+## 🔬 Currently Building
+- Intelligent automation projects with LLMs
+- Infrastructure automation tools
+- Scalable AI-driven systems
+
+## 📈 Career Direction
+My goal is to become a high-level AI Automation Engineer, building systems that combine LLMs, infrastructure, and automation to solve real-world problems.
+
+---
+
+💡 Always learning. Always building.
 
 <!--
 **Oly-System33/Oly-System33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
