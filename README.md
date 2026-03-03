@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sebastián Gómez
 
-NOC Engineer transitioning into AI Automation Engineering.
+NOC Engineer building AI-driven automation systems.
 
 ## 🚀 Current Focus
 - AI-powered automation systems
